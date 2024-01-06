@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\TAP\Lab5\Ex3\main.cpp(17,27): warning C4101: 'exception': unreferenced local variable
+C:\Users\Administrator\Desktop\TAP\Lab5\Ex3\main.cpp(24,28): warning C4101: 'exception': unreferenced local variable
+  Stack.cpp
+  Generating Code...
+  Ex3.vcxproj -> C:\Users\Administrator\Desktop\TAP\Lab5\Ex3\x64\Debug\Ex3.exe
