@@ -1,0 +1,10 @@
+﻿  Banca.cpp
+  Client.cpp
+  ContBancar.cpp
+C:\Users\Administrator\Desktop\TAP\Lab2\Ex2\ContBancar.cpp(17,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\TAP\Lab2\Ex2\ContBancar.cpp(20,10): warning C4305: 'return': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+C:\Users\Administrator\Desktop\TAP\Lab2\Ex2\Client.cpp(28): warning C4715: 'Client::getBankAccount': not all control paths return a value
+C:\Users\Administrator\Desktop\TAP\Lab2\Ex2\Banca.cpp(27): warning C4715: 'Banca::getClient': not all control paths return a value
+  Ex2.vcxproj -> C:\Users\Administrator\Desktop\TAP\Lab2\Ex2\x64\Debug\Ex2.exe
