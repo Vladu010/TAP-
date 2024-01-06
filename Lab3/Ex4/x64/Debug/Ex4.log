@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+  Film.cpp
+C:\Users\Administrator\Desktop\TAP\Lab3\Ex4\Film.cpp(61,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Ex4.vcxproj -> C:\Users\Administrator\Desktop\TAP\Lab3\Ex4\x64\Debug\Ex4.exe
