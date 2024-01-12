@@ -40,7 +40,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    QString mFilename = "C:\\Users\\noje_\\OneDrive\\Desktop\\facultate\\an 2\\TAP\\tutoriale qt\\tutorial 11\\test1.txt";
+    QString mFilename = "C:\\Users\\Administrator\\Desktop\TAP\\tutoriale qt\\tutorial 11\\test1.txt";
     Write(mFilename);
     Read(mFilename);
 
