@@ -1,0 +1,5 @@
+ananas -> 2 counted
+banana -> 1 counted
+mara -> 1 counted
+para -> 1 counted
+portocala -> 1 counted
