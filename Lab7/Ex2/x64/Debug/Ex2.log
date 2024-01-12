@@ -1,0 +1,3 @@
+﻿  Lsi.cpp
+C:\Users\Administrator\Desktop\TAP\Lab7\Ex2\Lsi.cpp(8,2): error C3861: 'list': identifier not found
+C:\Users\Administrator\Desktop\TAP\Lab7\Ex2\Lsi.cpp(8,2): error C2065: 'list': undeclared identifier

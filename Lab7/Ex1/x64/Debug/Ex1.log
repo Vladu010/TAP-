@@ -1,0 +1,21 @@
+﻿  Ex1.cpp
+C:\Users\Administrator\Desktop\TAP\Lab7\Ex1\Tablou.h(44,4): warning C4101: 'aux': unreferenced local variable
+  (compiling source file 'Ex1.cpp')
+  C:\Users\Administrator\Desktop\TAP\Lab7\Ex1\Tablou.h(44,4):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Administrator\Desktop\TAP\Lab7\Ex1\Ex1.cpp(27,10):
+  	see reference to function template instantiation 'bool SecvSearch<int>(T *,int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  	C:\Users\Administrator\Desktop\TAP\Lab7\Ex1\Tablou.h(63,2):
+  	see reference to function template instantiation 'void Bubble<T>(T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  Tablou.cpp
+  Generating Code...
+  Ex1.vcxproj -> C:\Users\Administrator\Desktop\TAP\Lab7\Ex1\x64\Debug\Ex1.exe
